@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+out/
+target/
+
+# Cache and temporary files
+.cache/
+.tmp/
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Coverage
+coverage/
+.coverage
+
